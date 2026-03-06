@@ -1,3 +1,7 @@
+# Online Course App - models.py
+# Author: Ezedeen (ezedeem223) - IBM Django Final Project - March 2026
+# Assessment Model - Added by Ezedeen for final project
+
 import sys
 from django.utils.timezone import now
 try:
