@@ -1,3 +1,7 @@
+# Online Course App - views.py
+# Author: Ezedeen (ezedeem223) - IBM Django Final Project - March 2026
+# View for assessment submission - customized by Ezedeen
+
 from django.shortcuts import render
 from django.http import HttpResponseRedirect
 from .models import Course, Enrollment, Choice, Question, Submission
